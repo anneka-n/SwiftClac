@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         //あいうえお
-        //aaaaa
+        
         
         number = 1
         label.text = String(number)
